@@ -38,7 +38,7 @@ With no license key, the app runs in **Demo Mode**: every feature is unlocked, l
 One-time payment, no subscription. Plans & license keys at **https://sakaynatech.com/#pricing**.
 
 ### 💬 Support
-Website **https://sakaynatech.com** · Email **info@sakaynatech.com**
+Website **https://sakaynatech.com** · Email **info@sakayna.com**
 
 ---
 *© 2026 SakaynaTech Solution · Made in General Santos City 🇵🇭*
