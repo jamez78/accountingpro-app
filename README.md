@@ -44,7 +44,7 @@ Demo Mode is free forever. To unlock unlimited records and users, get a license 
 ## 💬 Support
 
 - Website: **[sakaynatech.com](https://sakaynatech.com)**
-- Email: **info@sakayna.com**
+- Email: **info@sakaynatech.com**
 
 ---
 
